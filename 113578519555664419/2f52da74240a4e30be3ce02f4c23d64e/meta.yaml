@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/projects/mlflow%20wine%20with%20hyperops%20ann/mlruns/113578519555664419/2f52da74240a4e30be3ce02f4c23d64e/artifacts
+end_time: 1738669406797
+entry_point_name: ''
+experiment_id: '113578519555664419'
+lifecycle_stage: active
+run_id: 2f52da74240a4e30be3ce02f4c23d64e
+run_name: zealous-shrew-844
+run_uuid: 2f52da74240a4e30be3ce02f4c23d64e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738669398215
+status: 3
+tags: []
+user_id: hp

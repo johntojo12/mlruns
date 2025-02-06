@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/projects/mlflow%20wine%20with%20hyperops%20ann/mlruns/113578519555664419/07f17843f2d64d718cf83dd1ea8a6a91/artifacts
+end_time: 1738669440914
+entry_point_name: ''
+experiment_id: '113578519555664419'
+lifecycle_stage: active
+run_id: 07f17843f2d64d718cf83dd1ea8a6a91
+run_name: selective-hare-804
+run_uuid: 07f17843f2d64d718cf83dd1ea8a6a91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738669398028
+status: 3
+tags: []
+user_id: hp

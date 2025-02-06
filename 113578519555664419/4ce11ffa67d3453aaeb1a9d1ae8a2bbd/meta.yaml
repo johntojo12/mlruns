@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/projects/mlflow%20wine%20with%20hyperops%20ann/mlruns/113578519555664419/4ce11ffa67d3453aaeb1a9d1ae8a2bbd/artifacts
+end_time: 1738669433035
+entry_point_name: ''
+experiment_id: '113578519555664419'
+lifecycle_stage: active
+run_id: 4ce11ffa67d3453aaeb1a9d1ae8a2bbd
+run_name: selective-stoat-340
+run_uuid: 4ce11ffa67d3453aaeb1a9d1ae8a2bbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738669423873
+status: 3
+tags: []
+user_id: hp

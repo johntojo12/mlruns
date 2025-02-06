@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/projects/mlflow%20wine%20with%20hyperops%20ann/mlruns/113578519555664419/9d93955e17734c0bb07dee1aaef91d07/artifacts
+end_time: 1738669423808
+entry_point_name: ''
+experiment_id: '113578519555664419'
+lifecycle_stage: active
+run_id: 9d93955e17734c0bb07dee1aaef91d07
+run_name: luminous-wren-953
+run_uuid: 9d93955e17734c0bb07dee1aaef91d07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738669415103
+status: 3
+tags: []
+user_id: hp
